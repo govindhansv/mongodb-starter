@@ -1,4 +1,4 @@
-# MongoDB Starter – Developer Directory
+# MongoDB Starter – Developer Directory {edited to push}
 
 A developer directory built on [Next.js](https://nextjs.org/) and [MongoDB Atlas](https://www.mongodb.com/atlas/database), deployed on [Vercel](https://vercel.com/) with the [Vercel + MongoDB integration](https://vercel.com/integrations/mongodbatlas).
 
